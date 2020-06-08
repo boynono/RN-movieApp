@@ -1,0 +1,17 @@
+{
+  "name": "RN-movieApp",
+  "displayName": "RN-movieApp",
+  "expo": {
+    "name": "RN-movieApp",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

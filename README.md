@@ -1,2 +1,0 @@
-# RN-movieApp
-movie APP
