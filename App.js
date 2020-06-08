@@ -1,5 +1,6 @@
 import * as React from 'react';
 import { Platform, StyleSheet, Text, View } from 'react-native';
+import 'react-native-gesture-handler';
 
 const instructions = Platform.select({
   ios: `Press Cmd+R to reload,\nCmd+D or shake for dev menu`,
@@ -10,6 +11,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.welcome}>Welcome to React Native!</Text>
+      <Text style={styles.welcome}>Sholeh Apps</Text>
       <Text style={styles.instructions}>To get started, edit App.js</Text>
       <Text style={styles.instructions}>{instructions}</Text>
     </View>
